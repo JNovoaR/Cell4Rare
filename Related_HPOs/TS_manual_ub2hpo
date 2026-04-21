@@ -1,0 +1,54 @@
+Bladder	HP:0000014	Abnormality of the bladder
+
+Bone marrow	HP:0001871	Abnormality of blood and blood-forming tissues
+
+
+Blood	HP:0001871	Abnormality of blood and blood-forming tissues 
+
+Bone Marrow	HP:0001871	Abnormality of blood and blood-forming tissues 
+
+Eye	HP:0000478	Abnormality of the eye
+
+Fat	HP:0009124	Abnormal adipose tissue morphology
+
+Heart	HP:0030680	Abnormal cardiovascular system morphology
+Heart	HP:0011025	Abnormal cardiovascular system physiology
+Heart	HP:0500015	Abnormal cardiac test
+
+Kidney	HP:0000077	Abnormality of the kidney
+
+Large Intestine	HP:0025031	Abnormality of the digestive system
+Liver	HP:0001392	Abnormality of the liver
+Lung	HP:0002795	Abnormal respiratory system physiology
+Lymph Node	HP:0002733	Abnormal lymph node morphology
+Mammary	HP:0000769	Abnormality of the breast
+
+Muscle	HP:0003011	Abnormality of the musculature
+Muscle	HP:0011843	Abnormal musculoskeletal physiology
+Pancreas	HP:0001732	Abnormality of the pancreas
+
+Prostate	HP:0008775	Abnormal prostate morphology
+Prostate	HP:0012874	Abnormal male reproductive system physiology
+
+Salivary Gland	HP:0010286	Abnormal salivary gland morphology
+Salivary Gland	HP:0100755	Abnormality of salivation
+
+Skin	HP:0001574	Abnormality of the integument
+
+
+Small Intestine	HP:0025031	Abnormality of the digestive system
+
+Spleen	HP:0001743	Abnormality of the spleen
+
+Thymus	HP:0000777	Abnormal thymus morphology
+
+Tongue	HP:0000157	Abnormality of the tongue
+
+Trachea	HP:0002795	Abnormal respiratory system physiology
+
+Uterus	HP:0000130	Abnormality of the uterus
+Uterus	HP:0000144	Decreased fertility
+Uterus	HP:0030012	Abnormal female reproductive system physiology
+
+Vasculature	HP:0002597	Abnormality of the vasculature
+

@@ -1,0 +1,75 @@
+adipose tissue	HP:0009124	Abnormal adipose tissue morphology
+
+bone marrow	HP:0001871	Abnormality of blood and blood-forming tissues 
+
+brain	HP:0012639	Abnormal nervous system morphology
+brain	HP:0012638	Abnormal nervous system physiology
+
+breast	HP:0000769	Abnormality of the breast
+
+bronchus	HP:0002795	Abnormal respiratory system physiology
+
+
+colon	HP:0025031	Abnormality of the digestive system
+
+endometrium	HP:0030126	Abnormal endometrium morphology
+endometrium	HP:0000144	Decreased fertility
+endometrium	HP:0030012	Abnormal female reproductive system physiology
+
+esophagus	HP:0025031	Abnormality of the digestive system
+
+eye	HP:0000479	Abnormal retinal morphology
+
+fallopian tube	HP:0011027	Abnormal fallopian tube morphology
+fallopian tube	HP:0000144	Decreased fertility
+fallopian tube	HP:0030012	Abnormal female reproductive system physiology
+
+heart muscle	HP:0030680	Abnormal cardiovascular system morphology
+heart muscle	HP:0011025	Abnormal cardiovascular system physiology
+heart muscle	HP:0500015	Abnormal cardiac test
+
+kidney	HP:0000077	Abnormality of the kidney
+
+liver	HP:0001392	Abnormality of the liver
+
+lung	HP:0002795	Abnormal respiratory system physiology
+
+lymph node	HP:0002733	Abnormal lymph node morphology 
+
+ovary	HP:0000137	Abnormality of the ovary 
+ovary	HP:0000144	Decreased fertility
+ovary	HP:0030012	Abnormal female reproductive system physiology
+
+pancreas	HP:0001732	Abnormality of the pancreas
+
+pbmc	HP:0001871	Abnormality of blood and blood-forming tissues 
+
+placenta	HP:0001197	Abnormality of prenatal development or birth
+
+prostate	HP:0008775	Abnormal prostate morphology
+prostate	HP:0012874	Abnormal male reproductive system physiology
+
+rectum	HP:0025031	Abnormality of the digestive system
+
+salivary gland	HP:0010286	Abnormal salivary gland morphology
+salivary gland	HP:0100755	Abnormality of salivation
+
+skeletal muscle	HP:0003011	Abnormal skeletal muscle morphology
+skeletal muscle	HP:0011843	Abnormal musculoskeletal physiology
+
+skin	HP:0001574	Abnormality of the integument
+
+small intestine	HP:0025031	Abnormality of the digestive system
+
+spleen	HP:0001743	Abnormality of the spleen
+
+stomach	HP:0025031	Abnormality of the digestive system
+
+testis	HP:0000035	Abnormal testis morphology
+testis	HP:0000025	Functional abnormality of male internal genitalia
+
+thymus	HP:0000777	Abnormal thymus morphology 
+
+tongue	HP:0000157	Abnormality of the tongue
+
+vascular	HP:0002597	Abnormality of the vasculature
