@@ -1,4 +1,4 @@
-Python 3.9.12
+Python==3.9.12
 numpy==1.26.4
 scipy==1.13.1
 sklearn==1.0.2
